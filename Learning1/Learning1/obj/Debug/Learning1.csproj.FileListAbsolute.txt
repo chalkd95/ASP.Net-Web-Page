@@ -32,3 +32,37 @@ c:\users\dan\documents\visual studio 2017\Projects\Learning1\Learning1\bin\Micro
 c:\users\dan\documents\visual studio 2017\Projects\Learning1\Learning1\obj\Debug\Learning1.csprojResolveAssemblyReference.cache
 c:\users\dan\documents\visual studio 2017\Projects\Learning1\Learning1\obj\Debug\Learning1.dll
 c:\users\dan\documents\visual studio 2017\Projects\Learning1\Learning1\obj\Debug\Learning1.pdb
+C:\Users\dan\Source\Repos\ASP.Net-Web-Page\Learning1\Learning1\bin\roslyn\csc.exe
+C:\Users\dan\Source\Repos\ASP.Net-Web-Page\Learning1\Learning1\bin\roslyn\csc.exe.config
+C:\Users\dan\Source\Repos\ASP.Net-Web-Page\Learning1\Learning1\bin\roslyn\csc.rsp
+C:\Users\dan\Source\Repos\ASP.Net-Web-Page\Learning1\Learning1\bin\roslyn\csi.exe
+C:\Users\dan\Source\Repos\ASP.Net-Web-Page\Learning1\Learning1\bin\roslyn\csi.rsp
+C:\Users\dan\Source\Repos\ASP.Net-Web-Page\Learning1\Learning1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dan\Source\Repos\ASP.Net-Web-Page\Learning1\Learning1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dan\Source\Repos\ASP.Net-Web-Page\Learning1\Learning1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dan\Source\Repos\ASP.Net-Web-Page\Learning1\Learning1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dan\Source\Repos\ASP.Net-Web-Page\Learning1\Learning1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dan\Source\Repos\ASP.Net-Web-Page\Learning1\Learning1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dan\Source\Repos\ASP.Net-Web-Page\Learning1\Learning1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dan\Source\Repos\ASP.Net-Web-Page\Learning1\Learning1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dan\Source\Repos\ASP.Net-Web-Page\Learning1\Learning1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dan\Source\Repos\ASP.Net-Web-Page\Learning1\Learning1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dan\Source\Repos\ASP.Net-Web-Page\Learning1\Learning1\bin\roslyn\System.AppContext.dll
+C:\Users\dan\Source\Repos\ASP.Net-Web-Page\Learning1\Learning1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dan\Source\Repos\ASP.Net-Web-Page\Learning1\Learning1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dan\Source\Repos\ASP.Net-Web-Page\Learning1\Learning1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dan\Source\Repos\ASP.Net-Web-Page\Learning1\Learning1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dan\Source\Repos\ASP.Net-Web-Page\Learning1\Learning1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dan\Source\Repos\ASP.Net-Web-Page\Learning1\Learning1\bin\roslyn\vbc.exe
+C:\Users\dan\Source\Repos\ASP.Net-Web-Page\Learning1\Learning1\bin\roslyn\vbc.exe.config
+C:\Users\dan\Source\Repos\ASP.Net-Web-Page\Learning1\Learning1\bin\roslyn\vbc.rsp
+C:\Users\dan\Source\Repos\ASP.Net-Web-Page\Learning1\Learning1\bin\roslyn\VBCSCompiler.exe
+C:\Users\dan\Source\Repos\ASP.Net-Web-Page\Learning1\Learning1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dan\Source\Repos\ASP.Net-Web-Page\Learning1\Learning1\bin\Learning1.dll.config
+C:\Users\dan\Source\Repos\ASP.Net-Web-Page\Learning1\Learning1\bin\Learning1.dll
+C:\Users\dan\Source\Repos\ASP.Net-Web-Page\Learning1\Learning1\bin\Learning1.pdb
+C:\Users\dan\Source\Repos\ASP.Net-Web-Page\Learning1\Learning1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dan\Source\Repos\ASP.Net-Web-Page\Learning1\Learning1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dan\Source\Repos\ASP.Net-Web-Page\Learning1\Learning1\obj\Debug\Learning1.csprojResolveAssemblyReference.cache
+C:\Users\dan\Source\Repos\ASP.Net-Web-Page\Learning1\Learning1\obj\Debug\Learning1.dll
+C:\Users\dan\Source\Repos\ASP.Net-Web-Page\Learning1\Learning1\obj\Debug\Learning1.pdb

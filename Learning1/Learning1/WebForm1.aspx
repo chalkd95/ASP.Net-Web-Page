@@ -29,13 +29,13 @@
 
             <label for="txtInterestRate">Annual interest rate:</label>
 
-            <asp:TextBox ID="txtInterestRate" runat="server"></asp:TextBox>
+            <asp:TextBox ID="txtInterestRate" runat="server" CssClass="entry"></asp:TextBox>
             <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ControlToValidate="txtInterestRate" CssClass="validator" Display="Dynamic" ErrorMessage="Interest rate is required."></asp:RequiredFieldValidator>
             <asp:RangeValidator ID="RangeValidator1" runat="server" ControlToValidate="txtInterestRate" CssClass="validator" Display="Dynamic" ErrorMessage="Interest rate must range from 1 to 20." MaximumValue="20" MinimumValue="1"></asp:RangeValidator>
             <br />
             <label for="txtYears">Number of years:</label>
 
-            <asp:TextBox ID="txtYears" runat="server"></asp:TextBox>
+            <asp:TextBox ID="txtYears" runat="server" CssClass="entry"></asp:TextBox>
             <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ControlToValidate="txtYears" CssClass="validator" Display="Dynamic" ErrorMessage="Number of years is required."></asp:RequiredFieldValidator>
             <asp:RangeValidator ID="RangeValidator2" runat="server" ControlToValidate="txtYears" CssClass="validator" ErrorMessage="Years must range from 1 to 45." MaximumValue="45" MinimumValue="1"></asp:RangeValidator>
             <br />
